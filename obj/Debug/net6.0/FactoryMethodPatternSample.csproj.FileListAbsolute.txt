@@ -1,0 +1,15 @@
+C:\Work\Samples\FactoryMethodPatternSample\bin\Debug\net6.0\FactoryMethodPatternSample.exe
+C:\Work\Samples\FactoryMethodPatternSample\bin\Debug\net6.0\FactoryMethodPatternSample.deps.json
+C:\Work\Samples\FactoryMethodPatternSample\bin\Debug\net6.0\FactoryMethodPatternSample.runtimeconfig.json
+C:\Work\Samples\FactoryMethodPatternSample\bin\Debug\net6.0\FactoryMethodPatternSample.dll
+C:\Work\Samples\FactoryMethodPatternSample\bin\Debug\net6.0\ref\FactoryMethodPatternSample.dll
+C:\Work\Samples\FactoryMethodPatternSample\bin\Debug\net6.0\FactoryMethodPatternSample.pdb
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\FactoryMethodPatternSample.csproj.AssemblyReference.cache
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\FactoryMethodPatternSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\FactoryMethodPatternSample.AssemblyInfoInputs.cache
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\FactoryMethodPatternSample.AssemblyInfo.cs
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\FactoryMethodPatternSample.csproj.CoreCompileInputs.cache
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\FactoryMethodPatternSample.dll
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\ref\FactoryMethodPatternSample.dll
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\FactoryMethodPatternSample.pdb
+C:\Work\Samples\FactoryMethodPatternSample\obj\Debug\net6.0\FactoryMethodPatternSample.genruntimeconfig.cache
